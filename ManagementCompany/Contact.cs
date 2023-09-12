@@ -9,7 +9,7 @@ namespace ManagementCompany
     /// <summary>
     /// Management company save contacts on workers
     /// </summary>
-    internal class Contact
+    internal class Contact:Worker
     {
         /// <summary>
         /// If we need worker often, thats contact could be favorite.
