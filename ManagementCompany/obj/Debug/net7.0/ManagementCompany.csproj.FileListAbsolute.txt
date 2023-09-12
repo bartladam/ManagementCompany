@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\bin\Debug\net7.0\ManagementCompany.exe
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\bin\Debug\net7.0\ManagementCompany.deps.json
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\bin\Debug\net7.0\ManagementCompany.runtimeconfig.json
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\bin\Debug\net7.0\ManagementCompany.dll
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\bin\Debug\net7.0\ManagementCompany.pdb
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\obj\Debug\net7.0\ManagementCompany.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\obj\Debug\net7.0\ManagementCompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\obj\Debug\net7.0\ManagementCompany.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\obj\Debug\net7.0\ManagementCompany.AssemblyInfo.cs
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\obj\Debug\net7.0\ManagementCompany.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\obj\Debug\net7.0\ManagementCompany.dll
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\obj\Debug\net7.0\refint\ManagementCompany.dll
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\obj\Debug\net7.0\ManagementCompany.pdb
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\obj\Debug\net7.0\ManagementCompany.genruntimeconfig.cache
+D:\Visual Studio Projects\ManagementCompany\ManagementCompany\obj\Debug\net7.0\ref\ManagementCompany.dll
