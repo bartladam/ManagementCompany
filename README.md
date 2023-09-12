@@ -8,3 +8,7 @@ USED SKILLS
 5) params
 6) OOP
 7) enum
+
+NOTE:
+-----------
+* NET 7
